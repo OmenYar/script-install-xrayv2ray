@@ -145,3 +145,5 @@ case $opt in
 00 | 0) clear ; menu-set ;;
 *) clear ; autoboot ;;
 esac
+
+
